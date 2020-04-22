@@ -1,5 +1,5 @@
 static const char *whitelist[] = {
-    "localhost", // for using local proxies 
+    "localhost", // for using local proxies
     "audio-sp-*.pscdn.co", // audio
     "audio-fa.scdn.co", // audio
     "audio4-fa.scdn.co", // audio
@@ -26,6 +26,7 @@ static const char *whitelist[] = {
     "traffic.megaphone.fm", // podcasts
     "dcs.megaphone.fm", // podcasts
     "www.podtrac.com", // podcasts
+    "dts.podtrac.com", // podcasts
     "audio.simplecast.com", // podcasts
     "media.simplecast.com", // podcasts
     "ap.spotify.com", // audio (access point)
